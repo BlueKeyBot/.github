@@ -13,7 +13,7 @@ Before submitting this PR, please make sure you have completed the following:
 - [ ] **Code Quality**:
   - [ ] The code follows our coding style guidelines.
   - [ ] Linters and code analysis tools pass without errors.
-  - [ ] The code is well-documented (inline comments and/or external documentation).
+  - [ ] The code is well-documented external documentation.
 
 - [ ] **Testing**:
   - [ ] New functionality is covered by tests.
