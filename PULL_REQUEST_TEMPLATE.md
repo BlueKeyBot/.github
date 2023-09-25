@@ -3,8 +3,8 @@
 Please include a summary of the changes and the issue/feature this PR addresses. If it's a new feature, please describe its purpose and functionality.
 
 **Related Issue(s)/Feature Request(s):**
-- Closes #<issue_number>
-- Addresses #<feature_request_number>
+- Closes JIRA LINK
+- Addresses USER STORY VALUE PROP
 
 ## Checklist
 
