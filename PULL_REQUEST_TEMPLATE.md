@@ -14,12 +14,10 @@ Before submitting this PR, please make sure you have completed the following:
   - [ ] The code does not contain secrets.
 
 - [ ] **Documentation**:
-  - [ ] Documentation has been updated or added as needed.
-  - [ ] API changes are documented (if applicable).
+  - [ ] API changes are coordinated with front-end (if applicable).
 
 - [ ] **Review**:
   - [ ] I have reviewed my own code.
-  - [ ] I have addressed any comments or feedback from previous reviews.
 
 ## Screenshots or Visuals (if applicable)
 
